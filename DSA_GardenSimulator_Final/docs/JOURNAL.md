@@ -1053,8 +1053,8 @@ I tested every topic with automated checks that run the same Python code as the 
 ## 6. Approved Technical Environment
 HTML5/DOM, Tailwind CSS (CDN), Lucide Icons (CDN), Pyodide 0.26.1 and Vanilla JavaScript only. Game and code are saved in `localStorage`. Sound effects and the relaxing background music are generated with the browser's built-in WebAudio API (no audio files and no extra library); the music has an on/off button and the rain and wind sounds follow the weather.
 
-## 7. Project Version and Git Development (Optional)
-Version: v1.0.0, tagged as the final release (see the Prompt Log and Semantic Versioning file). Commands to create the repository and tag are in `README.md`. GitHub repository: \[paste your link here\]
+## 7. Project Version and Git Development
+Version: v1.0.0, tagged as the final release (see the Prompt Log and Semantic Versioning file). GitHub repository: https://github.com/j4k3lm/DSA_GardenSimulator.git 
 
 ## 8. AI Reflection
 - **How I used AI:** I described my project, the data structures I needed and the requirements, and asked the AI step by step for each version (the prompts are in the Prompt Log). It wrote most of the code and notes; I decided what the game should be and checked that every topic (OOP, Stack, Queue, 2D list, Hierarchical Tree, BFS/DFS, BST and node mutation, AVL, Sorting, Hash Tables) is used by the real gameplay.
